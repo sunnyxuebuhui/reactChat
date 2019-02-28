@@ -1,0 +1,1 @@
+export const GET_LOGIN_INFO = 'user/GET_LOGIN_INFO';

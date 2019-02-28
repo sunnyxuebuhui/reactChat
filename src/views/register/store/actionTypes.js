@@ -1,0 +1,1 @@
+export const GET_REGISTER = 'user/GET_REGISTER';
